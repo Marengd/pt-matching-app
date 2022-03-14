@@ -1,0 +1,110 @@
+
+.for_you header {
+   padding: 2rem;
+   padding-bottom: 0;
+
+   display: flex;
+
+   justify-content: space-between;
+}
+
+.for_you header figure {
+   width: 4rem;
+   height: 4rem;
+
+   border-radius: 1em;
+
+   background-color: var(--grey);
+}
+
+
+/* Ontdekken */
+
+.for_you > section {
+   padding: 1rem;
+}
+
+
+.for_you > section article figure {
+   position: relative;
+
+   padding: 7rem 5rem;
+
+   border-radius: 1em;
+   background-color: var(--grey);
+}
+
+.for_you > section article figure a {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   width: 4rem;
+   height: 4rem;
+
+   position: absolute;
+
+   bottom: 1rem;
+   right: 1rem;
+
+   border-radius: 1em;
+   background-color: var(--white);
+}
+
+
+
+.for_you h3 {
+   padding-left: 2rem;
+   margin-top: 1rem;
+}
+
+
+
+
+/* Collection */
+
+.collection section {
+   padding: 1rem;
+
+   display: grid;
+   grid-template-columns: repeat(2,minmax(0,1fr));
+
+   grid-gap: 1rem;
+}
+
+
+.collection article {
+   padding: 1rem;
+
+   position: relative;
+   
+   display: flex;
+   flex-direction: column;
+
+   justify-content: center;
+
+   height: 11.5rem;
+   border-radius: 1.5em;
+
+   background-color: var(--green);
+}
+
+
+
+
+
+.collection article h4 {
+   margin: 1.5rem 0 1.5rem 0;
+}
+
+.collection article p {
+   padding: 0.6em;
+
+   align-self: flex-start;
+
+   border-radius: 1em;
+
+   color: var(--dark-grey);
+   background-color: white;
+}
+

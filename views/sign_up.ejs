@@ -1,0 +1,61 @@
+
+
+
+
+<div class="register">
+
+
+
+
+
+   <!-- Introductie -->
+   <h1>Register</h1>
+
+   <p>
+      Vul onderstaande velden in om
+      een account aan te maken.
+   </p>
+
+
+   <!-- Formuleir -->
+   <form action="" method="POST">
+
+        <!-- Gebruikersnaam -->
+        <label for="username"></label>
+        <input type="text" name="username" id="username" placeholder="Enter username" required />
+
+        <!-- Email -->
+        <label for="email"></label>
+        <input type="email" name="email" id="email" placeholder="Email" required />
+
+        <!-- Wachtwoord -->
+        <label for="password"></label>
+        <input type="password" name="password" id="password" placeholder="Password" required />
+
+        <label for="repeat_password"></label>
+        <input type="password" name="repeat_password" id="repeat_password" placeholder="Password" required />
+
+
+        <!-- Registreren -->
+        <input type="submit" value="Maak een account aan"/>
+
+        <!-- Inloggen -->
+        <span>Heb je al een account? <a href="log_in">Log in</a></span>
+
+   </form>
+
+
+
+
+
+
+</div>
+
+
+<script>
+   if (typeof errors != 'undefined') { 
+   errors.forEach(function(error) {
+       error.msg 
+    }); 
+} 
+</script>
