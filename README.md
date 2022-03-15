@@ -87,6 +87,39 @@ $ Npm start
 <br>
 <br>
 
+
+# 📝 Gebruikte paketten
+
+Ejs: Dit is een eenvoudige templating taal die wordt gebruikt om HTML markup te genereren met gewone JavaScript. Het helpt ook om JavaScript in te sluiten in HTML-pagina's.
+
+<br>
+
+Mongodb: Ik gebruik dit pakket om verbinding te maken met mijn MongoDB Atlas database. Het pakket is heel gemakkelijk te gebruiken en heeft veel functies voor het vinden, opslaan, bijwerken, toevoegen en verwijderen van gegevens in uw database.
+
+Dotenv: Het dotenv-pakket wordt gebruikt om 'milieuvariabelen' uit je .env-bestand te halen. U wilt het .env-bestand opnemen in uw .gitignore, zodat niemand uw databasewachtwoorden en andere 'geheime' informatie kan krijgen die u in uw project gebruikt. Het is een geweldig pakket dat het heel gemakkelijk maakt om uw geheime gegevens te verbergen.
+
+<br>
+
+Express-ejs-layouts: Ik zou zeggen dat dit pakket het belangrijkste is van alle pakketten die in dit project worden gebruikt. Express is een Node.js webapplicatie framework, het kan veel verschillende dingen doen, maar het wordt het meest gebruikt om uw website routing een stuk slimmer te maken en om het te combineren met een templating engine om interactieve, 'levende' pagina's te maken.
+
+Express-session:  Dit pakket heeft mijn functie echt tot leven gebracht. Wat Express Session doet, is dat het unieke id's kan maken voor al uw gebruikers. Je kunt op elke pagina controleren op deze id, dit betekent dat je voor elke gebruiker een persoonlijke profielpagina kunt hebben, en dat ze daar hun eigen gegevens op zien als ze zijn ingelogd (en dat is precies waar ik het voor heb gebruikt). Uw gebruikers kunnen ook ingelogd blijven, zelfs als ze niet op uw website zijn, zodat ze niet elke keer hoeven in te loggen wanneer ze uw website willen bezoeken.
+
+<br>
+
+bcryptjs: Een pakket waarmee het mogelijk is om beveiligde wachtwoord te implementeren in jouw webapplicatie doordat het opgeslagen wachtwoorden versleuteld door middel van een "salt".
+
+<br>
+
+passport: Passport is extreem flexibel en modulair en kan onopvallend worden ingeleverd in elke Express-gebaseerde webtoepassing. Een uitgebreide set strategieën ondersteunt verificatie met behulp van een gebruikersnaam en wachtwoord, Facebook, Twitter en meer.
+
+
+
+
+
+<br>
+<br>
+<br>
+
 # 🥾 Het gebruik
 
 Om de webapplicatie te gebruiken is het mogelijk om [Localhost:5000](http://localhost:5000) te bezoeken of de Webapplicatie online te bekijken via [Heroku](https://shatching.herokuapp.com/log_in). Voor de beste ervaring zou ik in 'Element Inspecteren' overschakelen op een mobiel apparaat zoals de Iphone Xr.
@@ -102,6 +135,7 @@ I. (z.d.-a). GitHub - iSirThijs/Player2: A dating app to find your player2! GitH
 
 V. (z.d.). Packages · victorboucher/cmd-dating-app Wiki. GitHub. Geraadpleegd op 15 maart 2022, van https://github.com/victorboucher/cmd-dating-app/wiki/Packages
 
+npm: ejs. (2021, 6 februari). Npm. Geraadpleegd op 15 maart 2022, van https://www.npmjs.com/package/ejs
 
 Express - Node.js web application framework. (z.d.). Express. Geraadpleegd op 15 maart 2022, van https://expressjs.com/
 
