@@ -1,16 +1,18 @@
-# 📱 Matching Applicatie
-
-
-
-
-
-
-
 # 👠 🥿 👞 Shatching 🩰 👢 🥾
 
-Shatching is de applicatie die jouw zoektocht naar het vinden van bijpassende schoenen simplificeert. Op basis van de gelegenheid, jouw kledingstijl en voorkeuren geeft Shatching een overzicht met bijpassende schoenen weer. 
 
 <br>
+
+!https://github.com/Marengd/pt-matching-app-21-22/blob/main/images_wiki/wireframes.jpg!
+
+<br>
+
+
+# 📱 Matching Applicatie ― Project Tech
+Shatching is de applicatie die jouw zoektocht naar het vinden van bijpassende schoenen simplificeert. Op basis van de gelegenheid, jouw kledingstijl en voorkeuren geeft Shatching een overzicht met bijpassende schoenen weer. 
+
+Hoe gaaf het ook klinkt, moet ik er wel bij vertellen dat ik mij voornamelijk heb gericht op het registreren van een account en het in kunnen loggen met bestaande gegevens die vervolgens worden weergegeven binnen de applicatie. 
+
 <br>
 <br>
 
@@ -18,7 +20,6 @@ Shatching is de applicatie die jouw zoektocht naar het vinden van bijpassende sc
 # 👟 Installatie
 Om gebruik te maken van het project is het van belang om de volgende stappen te volgen. 
 
-<br>
 <br>
 
 
