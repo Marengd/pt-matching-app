@@ -98,7 +98,10 @@ Om de webapplicatie te gebruiken is het mogelijk om [Localhost:5000](http://loca
 
 # 👢 Bronnen
 
+I. (z.d.-a). GitHub - iSirThijs/Player2: A dating app to find your player2! GitHub. Geraadpleegd op 15 maart 2022, van https://github.com/iSirThijs/Player2
+
 V. (z.d.). Packages · victorboucher/cmd-dating-app Wiki. GitHub. Geraadpleegd op 15 maart 2022, van https://github.com/victorboucher/cmd-dating-app/wiki/Packages
+
 
 Express - Node.js web application framework. (z.d.). Express. Geraadpleegd op 15 maart 2022, van https://expressjs.com/
 
