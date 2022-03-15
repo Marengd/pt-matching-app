@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="/images_wiki/thumbnail.jpg" alt="">
+<img src="/images_wiki/thumbnail.png" alt="">
 
 <br>
 
