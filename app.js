@@ -67,7 +67,7 @@ app.use((req, res, next) => {
 app.use(express.static('public'))
 app.use('/css', express.static(__dirname + 'public/css'))
 
-const port = process.env.port || 5000;
+const port = process.env.PORT || 8000;
 
 app.listen(port, () => console.info(`App listening on port ${port}`));
 
