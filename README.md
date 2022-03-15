@@ -89,7 +89,7 @@ $ Npm start
 
 # 🥾 Het gebruik
 
-Om de webapplicatie te gebruiken is het mogelijk om [Localhost:5000](http://localhost:5000) te bezoeken of de Webapplicatie online te bekijken via [Heroku](https://shatching.herokuapp.com/log_in). Voor de beste ervaring zou ik in 'Element Inspecteren' overschakelen op een mobiel apparaat zoals de Ihpone Xr.
+Om de webapplicatie te gebruiken is het mogelijk om [Localhost:5000](http://localhost:5000) te bezoeken of de Webapplicatie online te bekijken via [Heroku](https://shatching.herokuapp.com/log_in). Voor de beste ervaring zou ik in 'Element Inspecteren' overschakelen op een mobiel apparaat zoals de Iphone Xr.
 
 <br>
 <br>
