@@ -1,4 +1,4 @@
-# 📱 💸 👟 Shatching 👟 💸 📱
+# 📱 💸 👟 Shatching 
 
 
 <br>
@@ -16,6 +16,7 @@ Hoe gaaf het ook klinkt, moet ik er wel bij vertellen dat ik mij voornamelijk he
 <br>
 <br>
 
+# 📝 Licentie
 
 # 👟 Installatie
 Om gebruik te maken van het project is het van belang om de volgende stappen te volgen. 
