@@ -18,7 +18,7 @@ Hoe gaaf het ook klinkt, moet ik er wel bij vertellen dat ik mij voornamelijk he
 
 # 📝 Licentie
 
-Auteursrecht © 2022 <Danian Marengo>
+Auteursrecht © 2022 Danian Marengo
 
 Hierbij wordt kosteloos toestemming verleend aan eenieder die een kopie verkrijgt.
 van deze software en bijbehorende documentatiebestande ( de "Software" ), om te handelen
