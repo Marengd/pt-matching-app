@@ -98,6 +98,8 @@ Om de webapplicatie te gebruiken is het mogelijk om [Localhost:5000](http://loca
 
 # 👢 Bronnen
 
+V. (z.d.). Packages · victorboucher/cmd-dating-app Wiki. GitHub. Geraadpleegd op 15 maart 2022, van https://github.com/victorboucher/cmd-dating-app/wiki/Packages
+
 Express - Node.js web application framework. (z.d.). Express. Geraadpleegd op 15 maart 2022, van https://expressjs.com/
 
 npm: express-ejs-layouts. (2021, 13 juni). Npm. Geraadpleegd op 15 maart 2022, van https://www.npmjs.com/package/express-ejs-layouts
