@@ -1,6 +1,7 @@
 
 
 
+
 const LocalStrategy = require('passport-local').Strategy;
 const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
@@ -49,3 +50,9 @@ module.exports = function(passport) {
    });
 
 }
+
+
+
+
+
+// Node.js With Passport Authentication | Full Project. (2018, 29 december). [Video]. YouTube. https://www.youtube.com/watch?v=6FOq4cUdH8k
