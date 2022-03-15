@@ -13,10 +13,10 @@ const app = express();
 //Passport configuratie
 require('./config/passport')(passport);
 
-// 
+
 require('dotenv').config();
 
-// 
+
 const dbURI = process.env.dbURI
 
 
@@ -63,7 +63,7 @@ app.use((req, res, next) => {
 });
 
 
-//
+// Express
 app.use(express.static('public'))
 app.use('/css', express.static(__dirname + 'public/css'))
 
