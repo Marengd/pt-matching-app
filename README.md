@@ -94,3 +94,29 @@ Om de webapplicatie te gebruiken is het mogelijk om [Localhost:5000](http://loca
 <br>
 <br>
 <br>
+
+
+# 👢 Bronnen
+
+Express - Node.js web application framework. (z.d.). Express. Geraadpleegd op 15 maart 2022, van https://expressjs.com/
+
+npm: express-ejs-layouts. (2021, 13 juni). Npm. Geraadpleegd op 15 maart 2022, van https://www.npmjs.com/package/express-ejs-layouts
+
+npm: flash. (2014, 11 september). Npm. Geraadpleegd op 15 maart 2022, van https://www.npmjs.com/package/flash
+
+npm: express-session. (2021, 19 mei). Npm. Geraadpleegd op 15 maart 2022, van https://www.npmjs.com/package/express-session
+
+npm: dotenv. (2022, 2 februari). Npm. Geraadpleegd op 15 maart 2022, van https://www.npmjs.com/package/dotenv
+
+Passportjs. (z.d.). Passport.js. Geraadpleegd op 15 maart 2022, van https://www.passportjs.org/
+
+MongoDB. (z.d.). MongoDB: The Application Data Platform. Geraadpleegd op 15 maart 2022, van https://www.mongodb.com/
+
+npm: bcryptjs. (z.d.). Npm. Geraadpleegd op 15 maart 2022, van https://www.npmjs.com/package/bcryptjs
+
+Node.js With Passport Authentication | Full Project. (2018b, december 29). YouTube. Geraadpleegd op 15 maart 2022, van https://www.youtube.com/watch?v=6FOq4cUdH8k
+
+Node.js Passport Login System Tutorial. (2019, 13 juli). YouTube. Geraadpleegd op 15 maart 2022, van https://www.youtube.com/watch?v=-RCnNyD0L-s
+
+Build Node.js User Authentication - Password Login. (2019, 22 juni). YouTube. Geraadpleegd op 15 maart 2022, van https://www.youtube.com/watch?v=Ud5xKCYQTjM
+
