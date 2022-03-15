@@ -1,9 +1,9 @@
-# 👠 🥿 👞 Shatching 🩰 👢 🥾
+# 📱 💸 👟 Shatching 👟 💸 📱
 
 
 <br>
 
-!https://github.com/Marengd/pt-matching-app-21-22/blob/main/images_wiki/wireframes.jpg!
+<img src="/images_wiki/wireframes.jpg" alt="">
 
 <br>
 
