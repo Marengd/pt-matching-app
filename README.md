@@ -102,9 +102,12 @@ Dotenv: Het dotenv-pakket wordt gebruikt om 'milieuvariabelen' uit je .env-besta
 
 Express-ejs-layouts: Ik zou zeggen dat dit pakket het belangrijkste is van alle pakketten die in dit project worden gebruikt. Express is een Node.js webapplicatie framework, het kan veel verschillende dingen doen, maar het wordt het meest gebruikt om uw website routing een stuk slimmer te maken en om het te combineren met een templating engine om interactieve, 'levende' pagina's te maken.
 
-Express-session:  Dit pakket heeft mijn functie echt tot leven gebracht. Wat Express Session doet, is dat het unieke id's kan maken voor al uw gebruikers. Je kunt op elke pagina controleren op deze id, dit betekent dat je voor elke gebruiker een persoonlijke profielpagina kunt hebben, en dat ze daar hun eigen gegevens op zien als ze zijn ingelogd (en dat is precies waar ik het voor heb gebruikt). Uw gebruikers kunnen ook ingelogd blijven, zelfs als ze niet op uw website zijn, zodat ze niet elke keer hoeven in te loggen wanneer ze uw website willen bezoeken.
+Express-session: Dit pakket heeft mijn functie echt tot leven gebracht. Wat Express Session doet, is dat het unieke id's kan maken voor al uw gebruikers. Je kunt op elke pagina controleren op deze id, dit betekent dat je voor elke gebruiker een persoonlijke profielpagina kunt hebben, en dat ze daar hun eigen gegevens op zien als ze zijn ingelogd (en dat is precies waar ik het voor heb gebruikt). Uw gebruikers kunnen ook ingelogd blijven, zelfs als ze niet op uw website zijn, zodat ze niet elke keer hoeven in te loggen wanneer ze uw website willen bezoeken.
 
 <br>
+
+<br>
+Connect-flash: Door middel van dit pakket kan je kort notificaties laten verschijnen in jouw webapplicatie. Een voorbeeld waarin dit gebruikt zou kunnen worden is tijdens het registreren. Zodra de gebruiker de verkeerde gegevens invult krijgt deze boven het formulier een popup te zien waarin de foutmelding staat beschreven.
 
 bcryptjs: Een pakket waarmee het mogelijk is om beveiligde wachtwoord te implementeren in jouw webapplicatie doordat het opgeslagen wachtwoorden versleuteld door middel van een "salt".
 
