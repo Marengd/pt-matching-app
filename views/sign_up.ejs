@@ -8,7 +8,6 @@
 
 
    <section>
-
       <!-- Introductie -->
       <h1>Registreren</h1>
 
@@ -16,24 +15,17 @@
           Vul onderstaande velden in om <br>
           een account aan te maken.
       </p>
-
    </section>
-
-
-
 
    <!-- Formuleir -->
    <form action="" method="POST">
 
-        <!-- Gebruikersnaam -->
         <label for="username"></label>
         <input type="text" name="username" id="username" placeholder="Gebruikersnaam" required />
 
-        <!-- Email -->
         <label for="email"></label>
         <input type="email" name="email" id="email" placeholder="Email" required />
 
-        <!-- Wachtwoord -->
         <label for="password"></label>
         <input type="password" name="password" id="password" placeholder="Wachtwoord" required />
 
@@ -41,26 +33,10 @@
         <input type="password" name="repeat_password" id="repeat_password" placeholder="Herhaal wachtwoord" required />
 
 
-        <!-- Registreren -->
         <input type="submit" value="Maak een account aan"/>
 
-        <!-- Inloggen -->
         <span>Heb je al een account? <a href="log_in">Log in</a></span>
 
    </form>
 
-
-
-
-
-
 </div>
-
-
-<script>
-   if (typeof errors != 'undefined') { 
-   errors.forEach(function(error) {
-       error.msg 
-    }); 
-} 
-</script>

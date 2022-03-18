@@ -90,10 +90,6 @@ const User = require("./models/gebruikers");
 // Express Layouts
 app.set("layout", "./layouts/standard")
 
-app.set("layout", "./layouts/profile")
-app.set("layout", "./layouts/profile_forms")
-app.set("layout", "./layouts/profile_forms_country")
-
 
 
 
@@ -101,13 +97,7 @@ app.set("layout", "./layouts/profile_forms_country")
 // Routes
 app.get("/", ensureAuthenticated, (req, res) => {
     res.render("index", { title: "for_you", name: req.user.name, layout: "./layouts/include_nav"})
-})
-
-
-app.get("/welcome", (req, res) => {
-    res.render("welcome", { title: "welcome", layout: "./layouts/standard"})
-})
-
+});
 
 app.get("/sign_up", (req, res) => {
     res.render("sign_up", { title: "sign_up", layout: "./layouts/standard"})
@@ -207,6 +197,10 @@ app.get("/log_in", (req, res) => {
     res.render("log_in", { title: "log_in", layout: "./layouts/standard"})
 });
 
+
+app.get("/collection", (req, res) => {
+    res.render("collection", { title: "collection", layout: "./layouts/collection_detail"})
+})
 
 app.get("/profile", (req, res) => {
     res.render("profile", { title: "profile", layout: "./layouts/include_nav"})

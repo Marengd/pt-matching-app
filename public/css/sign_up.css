@@ -1,8 +1,6 @@
 
 
-html {
-   height: -webkit-fill-available;
-}
+
 
 .content_center_aligned {
    height: 97.5vh;
@@ -13,7 +11,6 @@ html {
 }
 
 section {
-
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -34,15 +31,15 @@ section p {
    color: var(--secondary-text-color);
 }
 
-form {
-   
-}
+
+
+/* Formulier */
 
 form input {
+   padding: 1rem;
+
    font-family: var(--font);
    font-weight: 500;
-
-   padding: 1rem;
 
    border: 0.1rem solid var(--border-color);
    border-radius: 1.25rem;
@@ -83,5 +80,4 @@ form span:last-of-type a {
 
    background-position: 100% 100%;
    background-size: 100% 6.5%;
-   
 }

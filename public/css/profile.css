@@ -126,6 +126,15 @@ header article {
     align-items: center;
 }
 
+header article figure {
+    width: 4rem;
+    height: 4rem;
+
+    border-radius: 1em;
+
+    background-color: var(--green);
+}
+
 
 
 main section {
@@ -216,8 +225,6 @@ form {
 
     display: flex;
     flex-direction: column;
-
-    background-color: blue;
 }
 
 form label {
